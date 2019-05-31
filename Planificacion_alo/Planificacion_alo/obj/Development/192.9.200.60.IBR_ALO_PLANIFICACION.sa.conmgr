@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="192.9.200.60.IBR_ALO_PLANIFICACION.sa"
+  DTS:DTSID="{CE80CD64-798D-4DDD-9AFF-E83D0900C51A}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=192.9.200.60;User ID=sa;Initial Catalog=IBR_ALO_PLANIFICACION;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAifcwrUNn+UCo/kRXaMDWbQAAAAACAAAAAAAQZgAAAAEAACAAAABudxWGJp0kefkgWgtyeUICwIOWON4Jt+VyUu0fupDVLwAAAAAOgAAAAAIAACAAAAD6hsiS50aemRWWOX2glZyKBIEWMSJ4JyyxUw150itRkIAAAAAZlK9st8BpuBgYrCH62yUJu+eEJ6RUAZrM+YainxbT2Kye0osXcXRSWdOfi+w8ck+gc9xziU2qhwznIC5NmuKSUwpCCeQJRMULScXtyGUmX1wX6+/DjFSOGTqcgdz7VK/ESP93g+FHjr1l0GBFL+t0epFqLumpwoMeaYHjqTZlY0AAAADdvRHeyXnKqpHeSdrbgQ9fSn67mgSEWmTETdGwdFkG+78pGn9U+W317HE93J9zCHNGHZWS0iC88M7YrK5vrHch</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

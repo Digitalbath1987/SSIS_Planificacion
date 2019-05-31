@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Administrador de conexiones HTTP"
+  DTS:DTSID="{E9B302EC-DD4D-42AC-965A-3E0B42278E7C}"
+  DTS:CreationName="HTTP">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="http://192.9.200.69:9089">
+      <DTS:HttpConnection
+        DTS:ServerURL="http://192.9.200.69:9089">
+        <DTS:Property
+          DTS:Name="ServerPassword"
+          Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAifcwrUNn+UCo/kRXaMDWbQAAAAACAAAAAAAQZgAAAAEAACAAAADCMHT3Nrb9rP7GrmLXJOawnLW6S/COBeiL81PuUXD8nQAAAAAOgAAAAAIAACAAAADqH6gx3Q7n56JT0IRCJNhzOmJy7EiUvxaELPJlaQLr+YAAAAAIe966cTeXFY/PXIIhrKIp3R4jm93l/0+XyTfW5r9m10TqG6e+jitr0aF9wWCKqbDjVbATaI5U50cPeLboOzo2FNiNjqj4a69ofRkf0xqZqjGSCOkWSqqZB7NUMllnBrXKx82KocCB2hqvAeUOd4OBjfMrsVVVB1SJ68x3Npc7eEAAAAAfzfPAWwsp0pU5GhzFvaQaWyHhmdB6/owS4QbAV/pN893Mz+26dy/Ps8n/kC2UWLBa/xLnl3p0uzlS98TQhXsz</DTS:Property>
+        <DTS:Property
+          DTS:Name="ProxyPassword"
+          Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAifcwrUNn+UCo/kRXaMDWbQAAAAACAAAAAAAQZgAAAAEAACAAAADWd2LHnnL20nvviIIB6glViybX0DrhOnX3dyYgmvLjrwAAAAAOgAAAAAIAACAAAAB2huufcdA7HEahyvQBtePWiVWJpXya7TeIjy7YEQK9c4AAAADrzAEPWIxHfLa2iA38XRZTBKsOOv3zauevBBHUfUzRtodUckUw1eyASB34IudELi5RNdyNZaOvsO1B6xJMIgvYhRJ/1V7nfqRASoch63fh54Dprel5gaic51Cw+8djW/eQ1Izbv8VHJH7nohnYrz9/yUbJaEFittAqo4PC7sMw7EAAAADTBT3iweOeVZMtWEv3aMzMkskidlWYWVQorRbqU7CSTF3ybe6eYfsFZG3eLhlPtT6wm3y2xMQOmKUj5zQ18Lh0</DTS:Property>
+      </DTS:HttpConnection>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

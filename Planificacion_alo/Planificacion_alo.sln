@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Planificacion_alo", "Planificacion_alo\Planificacion_alo.dtproj", "{980A19F2-00D7-4F06-AF22-E4A8756682A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980A19F2-00D7-4F06-AF22-E4A8756682A7}.Development|Default.ActiveCfg = Development
+		{980A19F2-00D7-4F06-AF22-E4A8756682A7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E62D9AF2-8DB2-4054-8953-6243214E7D21}
+	EndGlobalSection
+EndGlobal

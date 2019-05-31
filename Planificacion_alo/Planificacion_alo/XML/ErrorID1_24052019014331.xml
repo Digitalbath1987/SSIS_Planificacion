@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ERROR>
+  <NSOLICITUD>1</NSOLICITUD>
+  <NAMETASK>Leer &amp; Insertar Gestiones</NAMETASK>
+  <NAMEPACKAGE>GESTIONES</NAMEPACKAGE>
+  <ErrorCode />
+  <ErrorColumn />
+  <NOMBRESUBTAREA />
+  <REGISTRO />
+  <Error_SSIS />
+</ERROR>
